@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
-- ⚡ Fun Fact: I speak 2 languages ( English, Hindi)
+- ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 
 ### Skills:
 - Python, 
@@ -23,23 +23,4 @@
 <div>
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
-
-
-#
-### &#x1f4c8; GitHub Stats
-
-[![Atul's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AtulKumar77&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AtulKumar77/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKumar77&langs_count=8)](https://github.com/AtulKumar77/github-readme-stats)
-
-<br/>
-    <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level
-<br>
-<br>
-
-
-![GitHub metrics](https://metrics.lecoq.io/AtulKumar77)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AtulKumar77)
-
-
-#
 
